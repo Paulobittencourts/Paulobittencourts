@@ -1,17 +1,24 @@
 ## Salve, Salve!! Bem vindo ao meu perfil 🚀
 <div> 
-  <img alt="img-Paulo" align="right" src="https://media.discordapp.net/attachments/485598503171784707/889595066606305310/icon-paulo-removebg-preview.png?width=155&height=192">
+  <img alt="img-Paulo" align="right" src="https://media.discordapp.net/attachments/485598503171784707/1115785030137028718/Fv4WVb7WAAAuYb5-removebg-preview.png?width=371&height=460">
 </div>
 Olá! sou o Paulo Bitencourth 
 
 ##
 
 - 🔭 Estudando Ciência da Computação
-- 🌱 Estudando JS, Python e Java
+- 🌱 Estudando JS e Java
+
+  <div>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Paulobittencourts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulobittencourts&layout=compact&langs_count=7&theme=tokyonight"/>
+  <div>
 
   <div style="display: inline_block"><br>
-    <img align="center" alt="Paulo-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img align="center" alt="Paulo-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img align="center" alt="Paulo-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45px">
+    <img align="center" alt="Paulo-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="45px">
+    <img align="center" alt="Paulo-Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="45px"/>
+
   </div>
   
   ##
