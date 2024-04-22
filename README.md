@@ -1,6 +1,6 @@
 ## Salve, Salve!! Bem vindo ao meu perfil 🚀
 <div> 
-  <img alt="img-Paulo" align="right" src="https://media.discordapp.net/attachments/485598503171784707/1115785030137028718/Fv4WVb7WAAAuYb5-removebg-preview.png?width=200&height=200">
+  <img alt="img-Paulo" align="right" src="https://media.discordapp.net/attachments/485598503171784707/1115785030137028718/Fv4WVb7WAAAuYb5-removebg-preview.png?ex=66279c09&is=66264a89&hm=468bddf52310f0f78a478e3cfe983ffd0e9f22c92855a46a259abf2c91384b1f&=&format=webp&quality=lossless&width=200&height=200">
 </div>
 Olá! sou o Paulo Bitencourth 
 
